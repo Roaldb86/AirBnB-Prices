@@ -11,7 +11,8 @@ some questions and answer those questions through a blogpost
 
 ### Files:
 The project contains a Jupyter notebook where all the technical sides of the project has been conducted,
-A blogpost on Medium, a folder with the raw data and this readme file.
+A blogpost on Medium --> https://medium.com/@roaldb86/want-to-know-how-to-get-the-most-out-of-your-airbnb-listing-b1a0361330f5
+A folder with the raw data and this readme file.
 
 
 ### How to interact with this project.
