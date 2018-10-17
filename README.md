@@ -7,7 +7,18 @@ No packages outside anaconda is nescessary.
 
 ### Motivation:
 This project has been conducted as a part of Udacity's Data Scientist Nanodegree. The Students were to pick a dataset, come up with 
-some questions and answer those questions through a blogpost
+some questions and answer those questions through a blogpost. The questions I chos was:
+- how to get the best price
+- how to get better reviews
+- can a machine learning model accuratly predict price on AirBnB
+
+### Summary
+I found that the main driver for prices are how many people a listing can accommodate. Location is also very important aswell as aminities
+such as TV, parking, Internet and air condition.
+In order to get good reviews it vital to respond to every inquiry and dont have limitations on maximum nights. those who list many appartments gets worse reviews than thos who only list their own. Amenities are also important for good reviews.
+
+I also found that a Random Forest algorithm can predict AirBnB prices with an accuracy of 65%. I belive alot of the remaining variance in the price can be explained by the listings standard which is not a feature in the dataset.
+
 
 ### Files:
 The project contains a Jupyter notebook where all the technical sides of the project has been conducted,
